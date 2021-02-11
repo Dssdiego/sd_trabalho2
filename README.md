@@ -52,7 +52,11 @@ python dispositivo.py
 python cliente.py
 ```
 
-## Oberservações
+## Arquitetura
+
+<img src="https://github.com/Dssdiego/sd_trabalho2/blob/main/arquitetura.jpg">
+
+## Observações
 
 Para fins de simplicidade, o cliente faz as requisições automaticamente em um determinado espaço de tempo, em sequência, a saber:
 
